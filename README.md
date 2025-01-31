@@ -8,7 +8,7 @@ Features
 
 Getting Started
 
-Clone the Repo: git clone
+Clone the Repo: git clone https://github.com/Bishnu573/CarRent
 
 Contributions Welcome! 🎉
 
